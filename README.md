@@ -1,0 +1,2 @@
+# FinQG
+Financial Question Generation
